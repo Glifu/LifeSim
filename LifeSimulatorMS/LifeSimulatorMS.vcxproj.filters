@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Animals">
+      <UniqueIdentifier>{28d65d75-8a32-413a-8d56-4175c211b248}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Plants">
+      <UniqueIdentifier>{f4a66785-cbb0-4462-9368-9520e3ce1502}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\BaseFiles">
+      <UniqueIdentifier>{4c22eabe-679f-414e-afc3-528eeb264d1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Animals">
+      <UniqueIdentifier>{d9e18f12-638c-4a06-9dd2-3cd858d484af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Plants">
+      <UniqueIdentifier>{940399b2-b803-4bd6-ac7d-29529b49dbb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\BaseFiles">
+      <UniqueIdentifier>{421c6776-bc33-4380-bc7a-ab36b3d5f7c1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LifeSimulatorMS.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal.cpp">
+      <Filter>Pliki źródłowe\Animals</Filter>
+    </ClCompile>
+    <ClCompile Include="Antylope.cpp">
+      <Filter>Pliki źródłowe\Animals</Filter>
+    </ClCompile>
+    <ClCompile Include="Bear.cpp">
+      <Filter>Pliki źródłowe\Animals</Filter>
+    </ClCompile>
+    <ClCompile Include="Lion.cpp">
+      <Filter>Pliki źródłowe\Animals</Filter>
+    </ClCompile>
+    <ClCompile Include="Sheep.cpp">
+      <Filter>Pliki źródłowe\Animals</Filter>
+    </ClCompile>
+    <ClCompile Include="Wolf.cpp">
+      <Filter>Pliki źródłowe\Animals</Filter>
+    </ClCompile>
+    <ClCompile Include="Grass.cpp">
+      <Filter>Pliki źródłowe\Plants</Filter>
+    </ClCompile>
+    <ClCompile Include="Plant.cpp">
+      <Filter>Pliki źródłowe\Plants</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Pliki źródłowe\BaseFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Guarana.cpp">
+      <Filter>Pliki źródłowe\Plants</Filter>
+    </ClCompile>
+    <ClCompile Include="Organism.cpp">
+      <Filter>Pliki źródłowe\BaseFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Thorn.cpp">
+      <Filter>Pliki źródłowe\Plants</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animal.h">
+      <Filter>Pliki nagłówkowe\Animals</Filter>
+    </ClInclude>
+    <ClInclude Include="Antylope.h">
+      <Filter>Pliki nagłówkowe\Animals</Filter>
+    </ClInclude>
+    <ClInclude Include="Bear.h">
+      <Filter>Pliki nagłówkowe\Animals</Filter>
+    </ClInclude>
+    <ClInclude Include="Lion.h">
+      <Filter>Pliki nagłówkowe\Animals</Filter>
+    </ClInclude>
+    <ClInclude Include="Sheep.h">
+      <Filter>Pliki nagłówkowe\Animals</Filter>
+    </ClInclude>
+    <ClInclude Include="Wolf.h">
+      <Filter>Pliki nagłówkowe\Animals</Filter>
+    </ClInclude>
+    <ClInclude Include="Grass.h">
+      <Filter>Pliki nagłówkowe\Plants</Filter>
+    </ClInclude>
+    <ClInclude Include="Plant.h">
+      <Filter>Pliki nagłówkowe\Plants</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Pliki nagłówkowe\BaseFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Organism.h">
+      <Filter>Pliki nagłówkowe\BaseFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Guarana.h">
+      <Filter>Pliki nagłówkowe\Plants</Filter>
+    </ClInclude>
+    <ClInclude Include="Thorn.h">
+      <Filter>Pliki nagłówkowe\Plants</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,34 @@
+﻿  Animal.cpp
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\Animal.cpp(5,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Antylope.cpp
+  Bear.cpp
+  Grass.cpp
+  Guarana.cpp
+  LifeSimulatorMS.cpp
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\LifeSimulatorMS.cpp(13,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Lion.cpp
+  Organism.cpp
+  Plant.cpp
+  Thorn.cpp
+  World.cpp
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(68,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(79,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(189,47): warning C4305: "argument": obcięcie z "World::drawBorder::SIGN" do "char"
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(189,33): warning C4309: "argument": obcięcie stałej wartości
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(190,57): warning C4305: "argument": obcięcie z "World::drawBorder::SIGN" do "char"
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(190,43): warning C4309: "argument": obcięcie stałej wartości
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(193,45): warning C4305: "argument": obcięcie z "World::drawBorder::SIGN" do "char"
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(193,33): warning C4309: "argument": obcięcie stałej wartości
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(194,55): warning C4305: "argument": obcięcie z "World::drawBorder::SIGN" do "char"
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(194,43): warning C4309: "argument": obcięcie stałej wartości
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(197,43): warning C4305: "argument": obcięcie z "World::drawBorder::SIGN" do "char"
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(197,32): warning C4309: "argument": obcięcie stałej wartości
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(198,54): warning C4305: "argument": obcięcie z "World::drawBorder::SIGN" do "char"
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(198,42): warning C4309: "argument": obcięcie stałej wartości
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(199,57): warning C4305: "argument": obcięcie z "World::drawBorder::SIGN" do "char"
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(199,42): warning C4309: "argument": obcięcie stałej wartości
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(200,68): warning C4305: "argument": obcięcie z "World::drawBorder::SIGN" do "char"
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(200,52): warning C4309: "argument": obcięcie stałej wartości
+F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\LifeSimulatorMS\World.cpp(223,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  LifeSimulatorMS.vcxproj -> F:\Programowanie\C++\JPO\Projekt2\LifeSimulatorMS\Debug\LifeSimulatorMS.exe
